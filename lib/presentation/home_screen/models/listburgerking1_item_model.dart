@@ -1,0 +1,1 @@
+class Listburgerking1ItemModel { }
